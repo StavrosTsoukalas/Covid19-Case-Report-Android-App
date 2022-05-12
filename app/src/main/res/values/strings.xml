@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name" translatable="false">Covid-19 App</string>
+    <string name="app_title">COVID-19 ΔΗΛΩΣΗ\nΚΡΟΥΣΜΑΤΟΣ</string>
+    <string name="email_hint" translatable="false">Email</string>
+    <string name="password_hint">Κωδικός Πρόσβασης</string>
+    <string name="password_confirm_hint">Επανάληψη Κωδικού Πρόσβασης</string>
+    <string name="greek" translatable="false">Ελληνικά</string>
+    <string name="english" translatable="false">English</string>
+    <string name="lang_title">Επιλέξτε γλώσσα:</string>
+    <string name="wait">Παρακαλώ περιμένετε να ανιχνευθεί η τοποθεσία σας για να επαληθεύσετε.</string>
+    <string name="login_btn">ΣΥΝΔΕΣΗ</string>
+    <string name="register_btn">ΕΓΓΡΑΦΗ</string>
+    <string name="register_title">ΕΓΓΡΑΦΗ ΧΡΗΣΤΗ</string>
+    <string name="register_help">Παρακαλώ συμπληρώστε τα παρακάτω πεδία:</string>
+    <string name="register_name">Όνομα</string>
+    <string name="register_surname">Επώνυμο</string>
+    <string name="register_gender_male">Άρρεν</string>
+    <string name="register_gender_female">Θήλυ</string>
+    <string name="register_birthdate">Ημερομηνία Γέννησης</string>
+    <string name="register_address">Διεύθυνση</string>
+    <string name="register_city">Πόλη</string>
+    <string name="register_AMKA">A.M.K.A.</string>
+    <string name="login_false_cred">Παρακαλώ συμπληρώστε σωστά τα στοιχεία σας.</string>
+    <string name="register_not_complete">Παρακαλώ συμπληρώστε όλα τα παραπάνω πεδία.</string>
+    <string name="register_success">Η εγγραφή ήταν επιτυχής.</string>
+    <string name="register_false_conf_pass">Οι κωδικοί δεν ταυτίζονται. Προσπαθήστε ξανά.</string>
+    <string name="menu_worker">ΔΙΑΘΕΣΙΜΕΣ ΛΕΙΤΟΥΡΓΙΕΣ</string>
+    <string name="menu_user">ΔΗΛΩΣΗ ΚΡΟΥΣΜΑΤΟΣ</string>
+    <string name="logout_btn">ΑΠΟΣΥΝΔΕΣΗ</string>
+    <string name="statistics_btn">ΣΤΑΤΙΣΤΙΚΑ</string>
+    <string name="location_not_avail">Η τοποθεσία σας δεν βρέθηκε.</string>
+    <string name="covid19_case_label">Πατήστε για να δηλώσετε το κρούσμα σας!</string>
+    <string name="covid19_sucess">Δηλώσατε επιτυχώς το κρούσμα σας!</string>
+    <string name="covid19_confirm_msg">Είστε σίγουρος;</string>
+    <string name="covid19_confirm_title">ΕΠΙΒΕΒΑΙΩΣΗ</string>
+    <string name="no">ΑΚΥΡΟ</string>
+    <string name="error">Παρουσιάστηκε πρόβλημα. Προσπαθήστε ξανά αργότερα.</string>
+    <string name="humidity_unavail">Η μέτρηση υγρασίας δεν είναι δυνατή.</string>
+    <string name="amb_temp_unavail">Η μέτρηση θερμοκρασίας περιβάλλοντος δεν είναι δυνατή.</string>
+    <string name="confirm">ΕΠΑΛΗΘΕΥΣΗ</string>
+    <string name="info">ΠΛΗΡΟΦΟΡΙΕΣ</string>
+    <string name="covid_case_show_help_msg">Πατήστε τον ιό για να δηλώσετε το κρούσμα σας, αφού πρώτα επαληθεύσετε πατώντας το κουμί ΕΠΑΛΗΘΕΥΣΗ. Πατώντας το κουμπί ΣΤΑΤΙΣΤΙΚΑ μεταφέρεστε στη σελίδα των στατιστικών στοιχείων της πανδημίας.</string>
+    <string name="tts">ΑΚΡΟΑΣΗ</string>
+    <string name="covid19_case_confirmed_msg">Το κρούσμα σας δηλώθηκε επιτυχώς.</string>
+    <string name="maps_btn">ΧΑΡΤΗΣ ΚΡΟΥΣΜΑΤΩΝ</string>
+    <string name="delete_user_btn">ΑΦΑΙΡΕΣΗ ΧΡΗΣΤΩΝ</string>
+    <string name="worker_help_msg">Ο ΧΑΡΤΗΣ ΚΡΟΥΣΜΑΤΩΝ περιέχει ζωντανή ροή των δηλωμένων κρουσμάτων στην Ελλάδα. Πατώντας το κουμπί ΣΤΑΤΙΣΤΙΚΑ μεταφέρεστε στη σελίδα των στατιστικών στοιχείων της πανδημίας. </string>
+    <string name="title_activity_covid_cases_map" translatable="false">CovidCasesMap</string>
+    <string name="delete_user_help_msg">Συμπληρώστε τον Α.Μ.Κ.Α. του χρήστη που επιθυμείτε να διαγράψετε και πατήστε το κουμπί ΔΙΑΓΡΑΦΗ για να αφαιρεθεί πλήρως από το σύστημα.</string>
+    <string name="delete_user_label">Συμπληρώστε τον Α.Μ.Κ.Α. του χρήστη που επιθυμείτε να διαγράψετε:</string>
+    <string name="delete_btn">ΔΙΑΓΡΑΦΗ</string>
+    <string name="del_user_not_found">Ο χρήστης δεν βρέθηκε.</string>
+    <string name="del_user_amka_empty">Παρακαλώ συμπληρώστε τα 11 ψηφία του Α.Μ.Κ.Α.</string>
+    <string name="del_user_success">Ο χρήστης διαγράφτηκε επιτυχώς.</string>
+    <string name="case_timestamp">Ημερομηνία:</string>
+    <string name="case_humidity">Υγρασία:</string>
+    <string name="case_amb_temperature">Θερμοκρασία περιβάλλοντος:</string>
+    <string name="no_cases">Κανένα καταγεγραμμένο κρούσμα Covid-19.</string>
+    <string name="edit_title">ΕΠΕΞΕΡΓΑΣΙΑ ΣΤΟΙΧΕΙΩΝ</string>
+    <string name="edit_label">Παρακάτω ενημερώστε τα διαθέσιμα επεξεργάσιμα πεδία:</string>
+    <string name="edit_btn">ΕΝΗΜΕΡΩΣΗ</string>
+    <string name="edit_profile_success">Η ενημέρωση στοιχείων ήταν επιτυχής.</string>
+    <string name="statistics_label">ΣΤΑΤΙΣΤΙΚΑ ΣΤΟΙΧΕΙΑ</string>
+    <string name="select_date_label">ΕΠΙΛΟΓΗ ΗΜΕΡΟΜΗΝΙΑΣ</string>
+    <string name="covid_cases_number"><u>ΠΛΗΘΟΣ ΚΡΟΥΣΜΑΤΩΝ:</u></string>
+    <string name="covid_male"><u>Άρρεν:</u></string>
+    <string name="covid_female"><u>Θήλυ:</u></string>
+    <string name="covid_gender"><u>ΦΥΛΟ:</u></string>
+    <string name="covid_ages"><u>ΗΛΙΚΙΕΣ:</u></string>
+    <string name="covid_kid" translatable="false"><u>0-17:</u></string>
+    <string name="covid_adult" translatable="false"><u>18-59:</u></string>
+    <string name="covid_elder" translatable="false"><u>60+:</u></string>
+    <string name="select_date_btn">ΕΠΙΛΟΓΗ</string>
+</resources>
